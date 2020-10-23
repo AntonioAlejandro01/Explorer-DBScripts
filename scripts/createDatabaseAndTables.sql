@@ -1,5 +1,5 @@
 /*Creacion de la base de datos*/
-drop database if exists Explorer ;
+drop database if exists Explorer;
 create database Explorer character set = utf8;
 
 use Explorer;
