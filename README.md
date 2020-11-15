@@ -1,8 +1,10 @@
 # ExplorerDB
-Scripts de la base de datos
 
-Repositorios del Proyecto
-- [Scripts de la Base de datos](https://github.com/AntonioAlejandro01/Explorer-DBScripts)
-- [Servidor en Node.js](https://github.com/AntonioAlejandro01/Explorer-API)
-- [Página web en Angular](https://github.com/AntonioAlejandro01/explorer-web)
-- [Aplicacion Android](https://github.com/AntonioAlejandro01/ExpplorerApp)
+Database Scripts
+
+Proyects Repositories
+
+- [Database Scripts](https://github.com/AntonioAlejandro01/ExplorerDB)
+- [Node.js API](https://github.com/AntonioAlejandro01/Explorer-API)
+- [Angular Web Page](https://github.com/AntonioAlejandro01/explorer-web)
+- [Android APP](https://github.com/AntonioAlejandro01/ExpplorerApp)
